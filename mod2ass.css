@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mod2 Assignment</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>Colour</h1>
+
+<div> 
+	<div id="box1">
+	<h2>Red</h2>
+	<p>Red is colour of love. At sunrise and sunset, when the path of the sunlight through the atmosphere to the eye is longest, the blue and green components are removed almost completely, leaving the longer wavelength orange and red light. The remaining reddened sunlight can also be scattered by cloud droplets and other relatively large particles, which give the sky above the horizon its red glow.</p>
+
+</div>
+<div id="box2">
+	<h2>Blue</h2>
+	<p>Blue is colour of sky.Blue is one of the colors of the rainbow that people can see. It is one of the seven colors of the rainbow along with red, orange, yellow, green, indigo and violet. It has the shortest wavelength of these colors (about 470 nanometers).Blue is the color of the Earth's sky and sea.</p>
+	</div>
+	<div id="box3">
+	<h2>Green</h2>
+	<p>Green is colour of nature.Green is no longer just a color. It's now the symbol of ecology and a verb.Since the beginning of time, green has signified growth, rebirth, and fertility. In pagan times, there was the "Green Man" - a symbol of fertility.  In Muslim countries, it is a holy color and in Ireland, a lucky color. It was the color of the heavens in the Ming Dynasty.</p>
+</div>
+</div>
+
+</body>
+</html>
